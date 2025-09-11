@@ -1,0 +1,27 @@
+{
+  "app_name": "My Streamlit App",
+  "version": "1.0.0",
+  "products": [
+    {
+      "id": 1,
+      "name": "Sample Product",
+      "description": "This is a sample product",
+      "price": 99.99
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Sample Location",
+      "address": "123 Main St, City, State",
+      "coordinates": [40.7128, -74.0060]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "email": "demo@example.com"
+    }
+  ]
+}
